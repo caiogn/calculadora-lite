@@ -1,3 +1,4 @@
+//deixarei os comentarios aqui para poder me guiar nas proximas atualizações
 //numero inicial, usuario irá digitar e ele ficara armazenado nessa variavel 
 var n1 = prompt('digite um numero');
 n1 = parseFloat(n1);
